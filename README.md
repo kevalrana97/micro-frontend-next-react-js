@@ -1,6 +1,6 @@
 # Micro Frontend Architecture
 
-This project implements a **Micro Frontend** architecture using **Next.js** as the host and product applications, and **React.js** for the basket module. The integration is achieved via Webpack Module Federation.
+This project implements a **Micro Frontend** architecture using **Next.js** as the host and product applications, and **React.js** for the basket module. Here is impliment redux store on host app ans share all other projects.
 
 ## Project Structure
 ```
